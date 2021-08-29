@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+.App-header {
+  background-color: #282c34;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.List {
+  margin: 30px 22% 0px 20%;
+}
+.listBox {
+  background-color: aliceblue;  
+
+}
+.listBox .listValue {
+  list-style-type: none;
+  color: #282c34;
+  padding:10px 0px;
+  border: solid 5px;
+}
+.Header {
+  padding: 35px;
+
+}
+
